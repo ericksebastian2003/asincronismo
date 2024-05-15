@@ -1,4 +1,4 @@
-# Ejercicio de Asincronismo en Desarrollo Web
+# Asincronismo - DOM
 
 Este ejercicio es un ejemplo de cómo implementar asincronismo en un desarrollo web utilizando JavaScript. En este ejercicio, realizamos una solicitud asíncrona para cargar contenido adicional en una página web cuando el usuario hace clic en un botón.
 
